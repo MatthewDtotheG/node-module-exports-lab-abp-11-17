@@ -1,9 +1,7 @@
 'use strict';
 
 class Question {
-  static Find(){
-    
-  }
+  static Find() {}
 }
 
-module.exports = Question
+module.exports = Question;
