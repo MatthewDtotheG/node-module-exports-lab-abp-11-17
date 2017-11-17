@@ -4,6 +4,6 @@ class Question {
   static Find() {}
 }
 
-// module.exports = Question;
+module.exports = Question;
 
-const Icebreaker = require('./Question.js');
+
