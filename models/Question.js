@@ -3,5 +3,3 @@
 class Question {
   static Find() {}
 }
-
-
