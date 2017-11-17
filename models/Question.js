@@ -6,4 +6,4 @@ class Question {
 
 // module.exports = Question;
 
-const Icebreaker = require('./Icebreaker.js');
+const Icebreaker = require('./Question.js');
